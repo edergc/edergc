@@ -51,13 +51,11 @@ Soy un **Desarrollador de Software** enfocado en crear soluciones escalables y e
   IMPORTANTE: Para que esta serpiente funcione, necesitas configurar el GitHub Action 'Generate Snake'.
   La imagen se generará automáticamente después de 24 horas o cuando la configures.
   Asegúrate de cambiar edergc por tu usuario REAL.
+  
+  Nota: La URL usa 'raw.githubusercontent.com' para que la imagen cargue correctamente una vez generada.
 -->
 <div align="center">
-  <img src="https://github.com/edergc/edergc/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
+  <img src="https://raw.githubusercontent.com/edergc/edergc/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 ### 🏆 Proyectos Destacados
 
 | Proyecto             | Descripción                                                                               | Stack                          |                         Link                          |
